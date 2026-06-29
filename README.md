@@ -1,6 +1,6 @@
 # Dactylotest
 
-A dactylotest made with [Processing](https://processing.org/) (that's like a superset of java).
+A dactylotest made with [Processing](https://processing.org/) (that is like a superset of java).
 
 If you want to use it, simply double click on **DactyloTest.exe** in _builds/application.windows32_ or _builds/application.windows64_.
 
